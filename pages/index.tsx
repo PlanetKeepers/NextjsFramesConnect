@@ -13,7 +13,7 @@ const config = {
   relay: "https://relay.farcaster.xyz",
   rpcUrl: "https://mainnet.optimism.io",
   siweUri: "http://example.com/login",
-  domain: "example.com",
+  domain: "planetkeepers.vercel.app",
 };
 
 export default function Home() {
